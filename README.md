@@ -46,7 +46,7 @@ For a value of 5300 Ω, the colored bands are green, orange and red.
 Nicolas Chen
 
 ## License
-This project is under MIT License.
+This app is under MIT License.
 
 Copyright (c) 2017 Nicolas Chen
 
